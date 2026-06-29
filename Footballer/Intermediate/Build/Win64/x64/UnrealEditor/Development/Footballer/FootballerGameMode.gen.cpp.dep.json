@@ -1,0 +1,19 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\github\\footballer\\intermediate\\build\\win64\\unrealeditor\\inc\\footballer\\uht\\footballergamemode.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\github\\footballer\\intermediate\\build\\win64\\x64\\footballereditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.inclorderunreal5_3.h.pch",
+        "Includes": [
+            "d:\\github\\footballer\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\footballer\\definitions.footballer.h",
+            "d:\\github\\footballer\\source\\footballer\\footballergamemode.h",
+            "d:\\epicgames\\ue_5.5\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemodebase.h",
+            "d:\\epicgames\\ue_5.5\\engine\\source\\runtime\\engine\\classes\\engine\\serverstatreplicator.h",
+            "d:\\epicgames\\ue_5.5\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\serverstatreplicator.generated.h",
+            "d:\\epicgames\\ue_5.5\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\gamemodebase.generated.h",
+            "d:\\github\\footballer\\intermediate\\build\\win64\\unrealeditor\\inc\\footballer\\uht\\footballergamemode.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

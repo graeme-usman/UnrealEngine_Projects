@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\Footballer.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Footballer.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\FootballerEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\.gitattributes" />
+    <None Include="..\..\.gitignore" />
+    <None Include="..\..\.vsconfig" />
+    <None Include="..\..\README.md" />
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\Footballer">
+      <UniqueIdentifier>{16DEE82E-B7B3-33EC-9A9B-C534BC4137EE}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Footballer\Footballer.Build.cs">
+      <Filter>Source\Footballer</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\Footballer\Footballer.cpp">
+      <Filter>Source\Footballer</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Footballer\Footballer.h">
+      <Filter>Source\Footballer</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Footballer\FootballerCharacter.cpp">
+      <Filter>Source\Footballer</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Footballer\FootballerCharacter.h">
+      <Filter>Source\Footballer</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Footballer\FootballerGameMode.cpp">
+      <Filter>Source\Footballer</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Footballer\FootballerGameMode.h">
+      <Filter>Source\Footballer</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>

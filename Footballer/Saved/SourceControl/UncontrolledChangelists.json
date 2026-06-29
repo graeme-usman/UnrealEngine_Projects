@@ -1,0 +1,47 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/GitHub/Footballer/Content/ThirdPerson/Input/IMC_Default.uasset",
+				"D:/GitHub/Footballer/Content/Footballer/Characters/BPC_Footballer.uasset",
+				"D:/GitHub/Footballer/Content/Footballer/Blueprints/BP_Football.uasset",
+				"D:/GitHub/Footballer/Content/Footballer/Characters/ABP_Footballer.uasset",
+				"D:/GitHub/Footballer/Content/Classic_Footballer/Meshes/Body/SK_Classic_Footballer_BODY.uasset",
+				"D:/GitHub/Footballer/Content/Footballer/Tests/BP_BasicTest.uasset",
+				"D:/GitHub/Footballer/Content/Classic_Footballer/Meshes/Body/SK_Classic_Footballer_BODY_Skeleton.uasset",
+				"D:/GitHub/Footballer/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/LG/RTEIJY9UCD4AYMNL4ZJ2OR.uasset",
+				"D:/GitHub/Footballer/Content/Blueprints/UI/WBP_MainMenu.uasset",
+				"D:/GitHub/Footballer/Content/Blueprints/UI/WBP_PauseMenu.uasset",
+				"D:/GitHub/Footballer/Content/Footballer/Maps/MainMenu.umap",
+				"D:/GitHub/Footballer/Content/Footballer/Gamemode/BP_Gamemode.uasset",
+				"D:/GitHub/Footballer/Content/Blueprints/UI/WBP_HUD.uasset",
+				"D:/GitHub/Footballer/Content/ThirdPerson/Maps/ThirdPersonMap.umap",
+				"D:/GitHub/Footballer/Content/Footballer/Misc/EKickPower.uasset",
+				"D:/GitHub/Footballer/Content/Footballer/Inputs/InputActions/IA_ChargeKick.uasset",
+				"D:/GitHub/Footballer/Content/Footballer/Inputs/InputActions/IA_LeftKick.uasset",
+				"D:/GitHub/Footballer/Content/Footballer/Inputs/InputActions/IA_RightKick.uasset",
+				"D:/GitHub/Footballer/Content/Footballer/Inputs/InputActions/IA_TempKick.uasset",
+				"D:/GitHub/Footballer/Content/Footballer/Inputs/IMC_Footballer.uasset",
+				"D:/GitHub/Footballer/Content/Footballer/Misc/EKickType.uasset",
+				"D:/GitHub/Footballer/Content/Classic_Footballer/Animations/Body/Anim_Classic_Footballer_Body_JUGGLE_R_Flick.uasset",
+				"D:/GitHub/Footballer/Content/Classic_Footballer/Animations/Body/Anim_Classic_Footballer_Body_DOWN.uasset",
+				"D:/GitHub/Footballer/Content/Footballer/InputActions/IA_TempKick.uasset",
+				"D:/GitHub/Footballer/Content/Footballer/InputActions/IA_ChargeKick.uasset",
+				"D:/GitHub/Footballer/Content/ThirdPerson/Input/IMC_Default1.uasset",
+				"D:/GitHub/Footballer/Content/Footballer/InputActions/IMC_Default1.uasset",
+				"D:/GitHub/Footballer/Content/Footballer/InputActions/InputActions/IA_TempKick.uasset",
+				"D:/GitHub/Footballer/Content/Footballer/InputActions/InputActions/IA_RightKick.uasset",
+				"D:/GitHub/Footballer/Content/Footballer/InputActions/InputActions/IA_LeftKick.uasset",
+				"D:/GitHub/Footballer/Content/Footballer/InputActions/InputActions/IA_ChargeKick.uasset",
+				"D:/GitHub/Footballer/Content/Footballer/InputActions/IMC_Footballer.uasset",
+				"D:/GitHub/Footballer/Content/Footballer/InputActions/IA_RightKick.uasset",
+				"D:/GitHub/Footballer/Content/Footballer/InputActions/IA_LeftKick.uasset",
+				"D:/GitHub/Footballer/Content/Footballer/InputActions/IA_HoldKick.uasset",
+				"D:/GitHub/Footballer/Content/Footballer/InputActions/IA_ReleaseKick.uasset"
+			]
+		}
+	]
+}
