@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "PhysicsPuzzle",
+			"Path": "..\\Source\\PhysicsPuzzle.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "PhysicsPuzzleEditor",
+			"Path": "..\\Source\\PhysicsPuzzleEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

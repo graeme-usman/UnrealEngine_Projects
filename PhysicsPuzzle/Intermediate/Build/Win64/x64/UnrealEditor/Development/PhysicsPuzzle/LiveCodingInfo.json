@@ -1,0 +1,13 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.PhysicsPuzzle.gen.cpp.obj": [
+			"PhysicsPuzzle.init.gen.cpp.obj",
+			"PP_GameMode.gen.cpp.obj",
+			"PP_Goal.gen.cpp.obj",
+			"PP_PlayerController.gen.cpp.obj",
+			"PP_PushBox.gen.cpp.obj",
+			"PP_TopDownCharacter.gen.cpp.obj"
+		]
+	}
+}

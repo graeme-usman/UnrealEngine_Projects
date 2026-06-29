@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"D:\\GitHub\\CGS-IntroToUnreal\\PhysicsPuzzle\\Source\\PhysicsPuzzle\\PhysicsPuzzle.Build.cs",
+		"D:\\GitHub\\CGS-IntroToUnreal\\PhysicsPuzzle\\Source\\PhysicsPuzzle.Target.cs",
+		"D:\\GitHub\\CGS-IntroToUnreal\\PhysicsPuzzle\\Source\\PhysicsPuzzleEditor.Target.cs"
+	],
+	"EngineVersion": "5.7.4"
+}

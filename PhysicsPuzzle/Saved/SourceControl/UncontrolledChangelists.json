@@ -1,0 +1,26 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/GitHub/CGS-IntroToUnreal/PhysicsPuzzle/Content/Blueprints/Core/BP_PPGameMode.uasset",
+				"D:/GitHub/CGS-IntroToUnreal/PhysicsPuzzle/Content/Blueprints/Core/BP_PPTopDownCharacter.uasset",
+				"D:/GitHub/CGS-IntroToUnreal/PhysicsPuzzle/Content/Blueprints/Core/BP_PPPlayerController.uasset",
+				"D:/GitHub/CGS-IntroToUnreal/PhysicsPuzzle/Content/Blueprints/Input/IMC_PPDefault.uasset",
+				"D:/GitHub/CGS-IntroToUnreal/PhysicsPuzzle/Content/Blueprints/Input/InputActions/IA_PPMove.uasset",
+				"D:/GitHub/CGS-IntroToUnreal/PhysicsPuzzle/Content/BP_PPPushBox.uasset",
+				"D:/GitHub/CGS-IntroToUnreal/PhysicsPuzzle/Content/Blueprints/BP_PPPushBox.uasset",
+				"D:/GitHub/CGS-IntroToUnreal/PhysicsPuzzle/Content/Maps/Default.umap",
+				"D:/GitHub/CGS-IntroToUnreal/PhysicsPuzzle/Content/Blueprints/Actors/BP_PPPushBox.uasset",
+				"D:/GitHub/CGS-IntroToUnreal/PhysicsPuzzle/Content/Assets/Custom_MirrorPlaneMaterial.uasset",
+				"D:/GitHub/CGS-IntroToUnreal/PhysicsPuzzle/Content/Blueprints/BP_PPPlayerController.uasset",
+				"D:/GitHub/CGS-IntroToUnreal/PhysicsPuzzle/Content/Blueprints/Input/IMC_Default.uasset",
+				"D:/GitHub/CGS-IntroToUnreal/PhysicsPuzzle/Content/Blueprints/Input/PPIMC_Default.uasset",
+				"D:/GitHub/CGS-IntroToUnreal/PhysicsPuzzle/Content/Blueprints/Input/InputActions/IMC_Default.uasset",
+				"D:/GitHub/CGS-IntroToUnreal/PhysicsPuzzle/Content/Blueprints/Input/InputActions/IA_KeyboardMove.uasset"
+			]
+		}
+	]
+}

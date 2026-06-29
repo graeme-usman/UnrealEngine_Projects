@@ -1,0 +1,30 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\github\\cgs-introtounreal\\physicspuzzle\\source\\physicspuzzle\\private\\actors\\pp_pushbox.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\github\\cgs-introtounreal\\physicspuzzle\\intermediate\\build\\win64\\x64\\physicspuzzleeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.h.pch",
+        "Includes": [
+            "d:\\github\\cgs-introtounreal\\physicspuzzle\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\physicspuzzle\\definitions.physicspuzzle.h",
+            "d:\\github\\cgs-introtounreal\\physicspuzzle\\source\\physicspuzzle\\public\\actors\\pp_pushbox.h",
+            "d:\\epicgames\\ue_5.7\\engine\\source\\runtime\\engine\\classes\\components\\boxcomponent.h",
+            "d:\\epicgames\\ue_5.7\\engine\\source\\runtime\\engine\\classes\\components\\shapecomponent.h",
+            "d:\\epicgames\\ue_5.7\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\shapecomponent.generated.h",
+            "d:\\epicgames\\ue_5.7\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\boxcomponent.generated.h",
+            "d:\\github\\cgs-introtounreal\\physicspuzzle\\intermediate\\build\\win64\\unrealeditor\\inc\\physicspuzzle\\uht\\pp_pushbox.generated.h",
+            "d:\\github\\cgs-introtounreal\\physicspuzzle\\source\\physicspuzzle\\public\\core\\pp_topdowncharacter.h",
+            "d:\\epicgames\\ue_5.7\\engine\\source\\runtime\\engine\\classes\\gameframework\\character.h",
+            "d:\\epicgames\\ue_5.7\\engine\\source\\runtime\\engine\\classes\\gameframework\\charactermovementreplication.h",
+            "d:\\epicgames\\ue_5.7\\engine\\source\\runtime\\net\\core\\public\\net\\core\\nettoken\\nettokenexportcontext.h",
+            "d:\\epicgames\\ue_5.7\\engine\\source\\runtime\\net\\iris\\public\\iris\\serialization\\irisobjectreferencepackagemap.h",
+            "d:\\epicgames\\ue_5.7\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\iriscore\\uht\\irisobjectreferencepackagemap.generated.h",
+            "d:\\epicgames\\ue_5.7\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\charactermovementreplication.generated.h",
+            "d:\\epicgames\\ue_5.7\\engine\\source\\runtime\\engine\\classes\\gameframework\\rootmotionsource.h",
+            "d:\\epicgames\\ue_5.7\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\rootmotionsource.generated.h",
+            "d:\\epicgames\\ue_5.7\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\character.generated.h",
+            "d:\\github\\cgs-introtounreal\\physicspuzzle\\intermediate\\build\\win64\\unrealeditor\\inc\\physicspuzzle\\uht\\pp_topdowncharacter.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

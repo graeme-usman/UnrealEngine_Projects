@@ -1,0 +1,39 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\github\\cgs-introtounreal\\physicspuzzle\\source\\physicspuzzle\\private\\core\\pp_playercontroller.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\github\\cgs-introtounreal\\physicspuzzle\\intermediate\\build\\win64\\x64\\physicspuzzleeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.h.pch",
+        "Includes": [
+            "d:\\github\\cgs-introtounreal\\physicspuzzle\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\physicspuzzle\\definitions.physicspuzzle.h",
+            "d:\\github\\cgs-introtounreal\\physicspuzzle\\source\\physicspuzzle\\public\\core\\pp_playercontroller.h",
+            "d:\\github\\cgs-introtounreal\\physicspuzzle\\intermediate\\build\\win64\\unrealeditor\\inc\\physicspuzzle\\uht\\pp_playercontroller.generated.h",
+            "d:\\epicgames\\ue_5.7\\engine\\plugins\\enhancedinput\\source\\enhancedinput\\public\\enhancedinputsubsystems.h",
+            "d:\\epicgames\\ue_5.7\\engine\\plugins\\enhancedinput\\source\\enhancedinput\\public\\enhancedinputsubsysteminterface.h",
+            "d:\\epicgames\\ue_5.7\\engine\\plugins\\enhancedinput\\source\\enhancedinput\\public\\enhancedplayerinput.h",
+            "d:\\epicgames\\ue_5.7\\engine\\source\\runtime\\engine\\classes\\gameframework\\playerinput.h",
+            "d:\\epicgames\\ue_5.7\\engine\\source\\runtime\\engine\\public\\gesturerecognizer.h",
+            "d:\\epicgames\\ue_5.7\\engine\\source\\runtime\\engine\\public\\keystate.h",
+            "d:\\epicgames\\ue_5.7\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\playerinput.generated.h",
+            "d:\\epicgames\\ue_5.7\\engine\\plugins\\enhancedinput\\source\\enhancedinput\\public\\inputaction.h",
+            "d:\\epicgames\\ue_5.7\\engine\\plugins\\enhancedinput\\source\\enhancedinput\\public\\inputmodifiers.h",
+            "d:\\epicgames\\ue_5.7\\engine\\plugins\\enhancedinput\\source\\enhancedinput\\public\\inputactionvalue.h",
+            "d:\\epicgames\\ue_5.7\\engine\\plugins\\enhancedinput\\intermediate\\build\\win64\\unrealeditor\\inc\\enhancedinput\\uht\\inputactionvalue.generated.h",
+            "d:\\epicgames\\ue_5.7\\engine\\plugins\\enhancedinput\\intermediate\\build\\win64\\unrealeditor\\inc\\enhancedinput\\uht\\inputmodifiers.generated.h",
+            "d:\\epicgames\\ue_5.7\\engine\\plugins\\enhancedinput\\source\\enhancedinput\\public\\inputtriggers.h",
+            "d:\\epicgames\\ue_5.7\\engine\\plugins\\enhancedinput\\intermediate\\build\\win64\\unrealeditor\\inc\\enhancedinput\\uht\\inputtriggers.generated.h",
+            "d:\\epicgames\\ue_5.7\\engine\\plugins\\enhancedinput\\intermediate\\build\\win64\\unrealeditor\\inc\\enhancedinput\\uht\\inputaction.generated.h",
+            "d:\\epicgames\\ue_5.7\\engine\\source\\runtime\\gameplaytags\\classes\\gameplaytagcontainer.h",
+            "d:\\epicgames\\ue_5.7\\engine\\source\\runtime\\core\\public\\misc\\comparisonutility.h",
+            "d:\\epicgames\\ue_5.7\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\gameplaytags\\uht\\gameplaytagcontainer.generated.h",
+            "d:\\epicgames\\ue_5.7\\engine\\source\\runtime\\gameplaytags\\public\\nativegameplaytags.h",
+            "d:\\epicgames\\ue_5.7\\engine\\source\\runtime\\gameplaytags\\classes\\gameplaytagsmanager.h",
+            "d:\\epicgames\\ue_5.7\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\gameplaytags\\uht\\gameplaytagsmanager.generated.h",
+            "d:\\epicgames\\ue_5.7\\engine\\plugins\\enhancedinput\\intermediate\\build\\win64\\unrealeditor\\inc\\enhancedinput\\uht\\enhancedplayerinput.generated.h",
+            "d:\\epicgames\\ue_5.7\\engine\\plugins\\enhancedinput\\intermediate\\build\\win64\\unrealeditor\\inc\\enhancedinput\\uht\\enhancedinputsubsysteminterface.generated.h",
+            "d:\\epicgames\\ue_5.7\\engine\\plugins\\enhancedinput\\intermediate\\build\\win64\\unrealeditor\\inc\\enhancedinput\\uht\\enhancedinputsubsystems.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

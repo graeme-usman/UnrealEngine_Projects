@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\github\\cgs-introtounreal\\physicspuzzle\\source\\physicspuzzle\\physicspuzzle.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\github\\cgs-introtounreal\\physicspuzzle\\intermediate\\build\\win64\\x64\\physicspuzzleeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.h.pch",
+        "Includes": [
+            "d:\\github\\cgs-introtounreal\\physicspuzzle\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\physicspuzzle\\definitions.physicspuzzle.h",
+            "d:\\github\\cgs-introtounreal\\physicspuzzle\\source\\physicspuzzle\\physicspuzzle.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

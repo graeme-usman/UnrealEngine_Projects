@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\.vsconfig" />
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\PhysicsPuzzle.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\PhysicsPuzzle.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\PhysicsPuzzleEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Source\PhysicsPuzzle">
+      <UniqueIdentifier>{9804A012-9C71-3E06-90A2-E04560B5DB61}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\PhysicsPuzzle\PhysicsPuzzle.Build.cs">
+      <Filter>Source\PhysicsPuzzle</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\PhysicsPuzzle\PhysicsPuzzle.cpp">
+      <Filter>Source\PhysicsPuzzle</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\PhysicsPuzzle\PhysicsPuzzle.h">
+      <Filter>Source\PhysicsPuzzle</Filter>
+    </ClInclude>
+    <Filter Include="Source\PhysicsPuzzle\Private">
+      <UniqueIdentifier>{C61768FE-44EA-316A-A2EB-B3DCF5465A30}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\PhysicsPuzzle\Private\Actors">
+      <UniqueIdentifier>{CF9BDE20-A7ED-343D-8AD7-BCD67CC2079C}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\PhysicsPuzzle\Private\Actors\PP_Goal.cpp">
+      <Filter>Source\PhysicsPuzzle\Private\Actors</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\PhysicsPuzzle\Private\Actors\PP_PushBox.cpp">
+      <Filter>Source\PhysicsPuzzle\Private\Actors</Filter>
+    </ClCompile>
+    <Filter Include="Source\PhysicsPuzzle\Private\Core">
+      <UniqueIdentifier>{1905B02F-B550-3E6C-BFE8-5DA1598656EC}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\PhysicsPuzzle\Private\Core\PP_GameMode.cpp">
+      <Filter>Source\PhysicsPuzzle\Private\Core</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\PhysicsPuzzle\Private\Core\PP_PlayerController.cpp">
+      <Filter>Source\PhysicsPuzzle\Private\Core</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\PhysicsPuzzle\Private\Core\PP_TopDownCharacter.cpp">
+      <Filter>Source\PhysicsPuzzle\Private\Core</Filter>
+    </ClCompile>
+    <Filter Include="Source\PhysicsPuzzle\Public">
+      <UniqueIdentifier>{96E9C1A6-F516-3E85-BE67-7AE98B664F87}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\PhysicsPuzzle\Public\Actors">
+      <UniqueIdentifier>{F0DB44AD-104C-36A2-96B1-871C8D07D2A0}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\PhysicsPuzzle\Public\Actors\PP_Goal.h">
+      <Filter>Source\PhysicsPuzzle\Public\Actors</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\PhysicsPuzzle\Public\Actors\PP_PushBox.h">
+      <Filter>Source\PhysicsPuzzle\Public\Actors</Filter>
+    </ClInclude>
+    <Filter Include="Source\PhysicsPuzzle\Public\Core">
+      <UniqueIdentifier>{03FB7EC7-3C49-393E-B2CB-C1B239D4A53A}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\PhysicsPuzzle\Public\Core\PP_GameMode.h">
+      <Filter>Source\PhysicsPuzzle\Public\Core</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\PhysicsPuzzle\Public\Core\PP_PlayerController.h">
+      <Filter>Source\PhysicsPuzzle\Public\Core</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\PhysicsPuzzle\Public\Core\PP_TopDownCharacter.h">
+      <Filter>Source\PhysicsPuzzle\Public\Core</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
